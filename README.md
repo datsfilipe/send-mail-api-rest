@@ -1,7 +1,7 @@
 # API REST PARA ENVIO DE EMAILS
 
 <p align="center">
-  <img width="220" src="./assets/code.svg" >
+  <img width="220" src="./assets/code.svg">
 </p>  
 
 <p style="font-size: 13px" align="center">
